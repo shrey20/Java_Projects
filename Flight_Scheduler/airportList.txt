@@ -1,0 +1,20 @@
+Airport Name, Airport Code, Location
+JFK International Airport,198,Alaska
+Denpasar Airport,154,California
+Singapore Airport,172,Colorado
+Kathmandu Airport,143,Delaware
+Kuala Lumpur Airport,174,Florida
+Santa Cruz Airport,104,Hawaii
+Kuwait Airport,196,Massachusetts
+Dubai Airport,147,New York
+London Airport,182,Chicago
+Abu Dhabi Airport,139,North Carolina
+Munich Airport,113,Albany
+Hong Kong Airport,144,Durham
+O'Hare International Airport,189,Lancaster
+Indira Gandhi International Airport,188,Manchester
+Chhatrapati Shivaji ,120,Liverpool
+Maharaj International Airport,124,Plymouth
+Chennai International Airport,106,Sydney
+Amsterdam Airport Schiphol,159,Darwin
+Los Angeles International Airport,102,Mumbai
